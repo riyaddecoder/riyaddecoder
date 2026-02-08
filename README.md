@@ -5,7 +5,7 @@
 **Senior Software Engineer** based in Dhaka, Bangladesh with 6+ years of professional experience.  
 See my profile at: https://sariyad.com
 
-🔗 LinkedIn: [Linkedin](https://www.linkedin.com/in/riyaddecoder/)
+🔗 Connect with me : [Linkedin](https://www.linkedin.com/in/riyaddecoder/)
 
 ### 🔎 What I’m Doing
 - Writing scalable backend services primarily with **Node.js**, **TypeScript**, and **PHP**
