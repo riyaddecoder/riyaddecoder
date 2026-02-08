@@ -7,6 +7,7 @@ See my profile at: https://sariyad.com
 
 ### 🔎 What I’m Doing
 - Writing scalable backend services primarily with **Node.js**, **TypeScript**, and **PHP**
+- Building modern frontend applications using **React.js** and **Next.js**
 - Building robust APIs with **Nest.js**, **Laravel**
 - Contributing to **Open Source**
 - Mostly active on **[Linkedin](https://www.linkedin.com/in/riyaddecoder/)**
