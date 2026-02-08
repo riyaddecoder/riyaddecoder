@@ -1,8 +1,64 @@
-### Hello!
-I'm Riyad, Software Engineer at [Orangetoolz](https://orangetoolz.com).
+# 👋 Hi, I’m Shahidul Alam Riyad
 
-As a software developer, I focus on web (particular interest in Typescript, React, NextJS), nodeJs, Laravel, and more.
+🚀 Software Engineer | 💻 Full-Stack Developer | ⚙️ Problem Solver
 
-You can find me on [Linkedin](https://www.linkedin.com/in/riyaddecoder/)!
+**Senior Software Engineer** based in Dhaka, Bangladesh with 6+ years of professional experience.  
+See my profile at: https://sariyad.com
 
-👋 Please feel free to reach out on [Facebook](https://www.facebook.com/riyaddecoder/)
+### 🔎 What I’m Doing
+- Writing scalable backend services primarily with **Node.js**, **TypeScript**, and **PHP**
+- Building robust APIs with **Nest.js**, **Laravel**
+- Contributing to **Open Source**
+- Mostly active on **[Linkedin](https://www.linkedin.com/in/riyaddecoder/)**
+
+---
+
+## 🧰 Skills & Technologies
+
+### 💻 Languages
+- JavaScript
+- TypeScript
+- SQL
+- PHP
+
+### ⚙️ Backend
+- Node.js
+- Nest.js
+- Express.js
+- Laravel
+- REST API Design
+- Authentication & Authorization
+- Microservices (concepts & design)
+
+### 📦 Frontend (core)
+- React.js
+- Next.js
+
+### 🗄️ Databases
+- PostgreSQL
+- MySQL
+- MongoDB
+- Redis (cache & sessions)
+
+### 📊 Tools & DevOps
+- Git & GitHub (CI/CD workflows)
+- Docker
+- Testing (Jest)
+- Logging & Monitoring
+
+### ☁️ Deployment & Platforms
+- Vercel / GCP / DigitalOcean (concepts & deployment)
+
+### 🧩 Other
+- Clean code & SOLID principles
+- Software architecture & design patterns
+- Agile workflows & code reviews
+
+---
+
+## 🔗 Connect
+
+📌 Website: https://sariyad.com  
+🔗 LinkedIn: [Linkedin](https://www.linkedin.com/in/riyaddecoder/)<br>
+📧 Email: *riyaddecoder@gmail.com*
+
